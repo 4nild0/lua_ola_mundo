@@ -5,7 +5,7 @@ source = {
 }
 description = {
    homepage = "*** please enter a project homepage ***",
-   license = "*** please specify a license ***"
+   license = "MIT"
 }
 build = {
    type = "builtin",
